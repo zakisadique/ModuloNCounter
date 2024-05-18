@@ -1,0 +1,5 @@
+<map id="ModuloNCounter" name="ModuloNCounter">
+<area shape="rect" id="Node000001" title="Represents a modulo&#45;N counter consisting of ModuloNDigit objects." alt="" coords="5,96,123,123"/>
+<area shape="rect" id="Node000002" href="$classModuloNDigit.html" title="Represents a digit in a modulo&#45;N counter. The counter counts from 0 to a given maximum value before g..." alt="" coords="15,5,113,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,48,67,95,61,95,61,48"/>
+</map>

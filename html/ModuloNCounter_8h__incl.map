@@ -1,0 +1,8 @@
+<map id="myCode/ModuloNCounter.h" name="myCode/ModuloNCounter.h">
+<area shape="rect" id="Node000001" title="Definition of the ModuloNCounter class and related enumerations." alt="" coords="15,5,196,32"/>
+<area shape="rect" id="Node000002" href="$ModuloNDigit_8h.html" title="Definition of the ModuloNDigit class." alt="" coords="5,80,115,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,34,78,68,74,65,95,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="70,155,141,181"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="114,32,129,80,129,112,120,141,115,140,123,111,124,80,109,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,106,92,140,87,143,66,109"/>
+</map>
